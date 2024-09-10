@@ -47,4 +47,3 @@ bqplot
 
 # 
 jupyterlab-filesystem-access
-jupyter_copilot
