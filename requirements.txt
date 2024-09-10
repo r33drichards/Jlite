@@ -47,3 +47,4 @@ bqplot
 
 # 
 jupyterlab-filesystem-access
+jupyterlab-webrtc-docprovider
