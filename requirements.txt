@@ -48,3 +48,6 @@ bqplot
 # 
 jupyterlab-filesystem-access
 jupyterlab-webrtc-docprovider
+
+
+huggingface-hub
